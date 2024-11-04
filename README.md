@@ -19,4 +19,4 @@ If you find our codes helpful to your research, please consider to use the follo
   number={},
   pages={1212-1217},
   keywords={Image quality;Databases;Image processing;Noise;Dynamic range;Thermal conductivity;Distortion;Thermal infrared images;image quality assessment;subjective assessment;no reference},
-  doi={10.1109/ICIP51287.2024.10648145}}} ```
+  doi={10.1109/ICIP51287.2024.10648145}} ```
