@@ -10,30 +10,13 @@ Google Drive link:https://drive.google.com/drive/folders/1peYxh-NLPAFVvrTB-VVAq1
 
 If you find our codes helpful to your research, please consider to use the following citation:
 
-cff-version: 1.2.0
-
-authors:
-  - family-names: "Yue"
-    given-names: "Guanghui"
-  - family-names: "Zhang"
-    given-names: "Lixin"
-  - family-names: "Zhang"
-    given-names: "Jinxia"
-  - family-names: "Xu"
-    given-names: "Zhaofei"
-  - family-names: "Wang"
-    given-names: "Shuigen"
-  - family-names: "Zhou"
-    given-names: "Tianwei"
-  - family-names: "Gong"
-    given-names: "Yuanhao"
-  - family-names: "Zhou"
-    given-names: "Wei"
-title: "Subjective Quality Assessment of Thermal Infrared Images"
-year: "2024"
-booktitle: "2024 IEEE International Conference on Image Processing (ICIP)"
-pages: "1212-1217"
-keywords: ["Image quality", "Databases", "Image processing", "Noise", "Dynamic range", "Thermal conductivity", "Distortion", "Thermal infrared images", "image quality assessment", "subjective assessment", "no reference"]
-doi: "10.1109/ICIP51287.2024.10648145"
-url: "https://github.com/yourusername/your-repository"
-
+```bibtex @INPROCEEDINGS{10648145,
+  author={Yue, Guanghui and Zhang, Lixin and Zhang, Jinxia and Xu, Zhaofei and Wang, Shuigen and Zhou, Tianwei and Gong, Yuanhao and Zhou, Wei},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Subjective Quality Assessment of Thermal Infrared Images}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1212-1217},
+  keywords={Image quality;Databases;Image processing;Noise;Dynamic range;Thermal conductivity;Distortion;Thermal infrared images;image quality assessment;subjective assessment;no reference},
+  doi={10.1109/ICIP51287.2024.10648145}}} ```
