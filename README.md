@@ -8,8 +8,9 @@ To obtain the download password, please email: cheunglaihip@163.com
 
 Google Drive link:https://drive.google.com/drive/folders/1peYxh-NLPAFVvrTB-VVAq1sD2645pW-f?usp=sharing
 
-If you recognize our work and adopt our dataset, you are welcome to cite our paper：
+If you find our codes helpful to your research, please consider to use the following citation:
 
+“
 @INPROCEEDINGS{10648145,
   author={Yue, Guanghui and Zhang, Lixin and Zhang, Jinxia and Xu, Zhaofei and Wang, Shuigen and Zhou, Tianwei and Gong, Yuanhao and Zhou, Wei},
   booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
@@ -20,3 +21,4 @@ If you recognize our work and adopt our dataset, you are welcome to cite our pap
   pages={1212-1217},
   keywords={Image quality;Databases;Image processing;Noise;Dynamic range;Thermal conductivity;Distortion;Thermal infrared images;image quality assessment;subjective assessment;no reference},
   doi={10.1109/ICIP51287.2024.10648145}}
+”
