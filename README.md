@@ -10,7 +10,7 @@ Google Drive link:https://drive.google.com/drive/folders/1peYxh-NLPAFVvrTB-VVAq1
 
 If you find our codes helpful to your research, please consider to use the following citation:
 
-```bibtex @INPROCEEDINGS{10648145,
+```@INPROCEEDINGS{10648145,
   author={Yue, Guanghui and Zhang, Lixin and Zhang, Jinxia and Xu, Zhaofei and Wang, Shuigen and Zhou, Tianwei and Gong, Yuanhao and Zhou, Wei},
   booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
   title={Subjective Quality Assessment of Thermal Infrared Images}, 
